@@ -1,5 +1,6 @@
 package io.pivotal;
 
+
 import com.jayway.jsonpath.DocumentContext;
 import com.jayway.jsonpath.JsonPath;
 import org.junit.Before;
